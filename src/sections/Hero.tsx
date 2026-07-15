@@ -279,7 +279,7 @@ export const Hero: React.FC = () => {
               {/* Main Image Frame */}
               <div className="w-full h-full rounded-3xl overflow-hidden border border-white/10 bg-slate-900 group-hover:border-blue-500/60 transition-colors duration-300 shadow-2xl relative">
                 <img
-                  src="/src/assets/images/hassan_profile_1784039210757.jpeg"
+                  src="/images/hassan_profile_1784039210757.jpeg"
                   alt="Hassan Raza"
                   className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500 select-none"
                   referrerPolicy="no-referrer"
